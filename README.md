@@ -19,3 +19,6 @@ Aprofundar conhecimentos na linguagem C# e boas práticas de programação.
 Alguns arquivos tiveram partes removidas ou modificadas, como **strings de conexão, classes de acesso ao banco de dados e credenciais**, para evitar o vazamento de informações sensíveis do banco de dados utilizado na escola.
 
 O código foi ajustado apenas para fins de segurança, não afetando a estrutura principal dos projetos.
+
+## 📌 Autor
+Gabriel Ricardo
